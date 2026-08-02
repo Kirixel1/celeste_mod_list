@@ -12,5 +12,5 @@
 3. [Sonder](https://gamebanana.com/mods/666256) - Map that looks super cool but didn't try yet.
 4. [The 2026 Secret Santa Collab](https://gamebanana.com/mods/695378) - New collab that I want to try in the future.
 ### My socials:
-[youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
-[twitch](https://www.twitch.tv/newgenics)
+1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
+2. [twitch](https://www.twitch.tv/newgenics)
