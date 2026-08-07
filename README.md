@@ -6,6 +6,7 @@
 5. [Astolfo](https://gamebanana.com/mods/487071) - Femboy skin(Don't ask me why, I was forced with pleasure).
 6. [Boykisser](https://gamebanana.com/mods/570197) - Silly cat skin.
 7. [Skin Mod Helper (Plus)](https://gamebanana.com/mods/473796) - Allows me to change skin in the game.
+7. [CelesteNet](https://gamebanana.com/mods/53695) - Multiplayer mod for celeste.
 ## Maps:
 1. [Strawberry Jam Collab](https://gamebanana.com/mods/424541) - Strawberry Jam is the largest Celeste mod to date, featuring: 111 maps spread across 5 difficulties, 1500+ playable rooms, 9 hours of original music, 250+ strawberries, Stickers!
 2. [Glyph](https://gamebanana.com/mods/150453) - Another very good mod for playing that I'm currently didn't complete yet.
