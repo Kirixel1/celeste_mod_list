@@ -12,6 +12,7 @@
 2. [Glyph](https://gamebanana.com/mods/150453) - Another very good mod for playing that I'm currently didn't complete yet.
 3. [Sonder](https://gamebanana.com/mods/666256) - Map that looks super cool but didn't try yet.
 4. [The 2026 Secret Santa Collab](https://gamebanana.com/mods/695378) - New collab that I want to try in the future.
+5. [The Nightmare Map Pack](https://gamebanana.com/mods/701481) - 17 beautiful maps inspired with some pokemons that I want to try someday.
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
