@@ -13,6 +13,8 @@
 3. [Sonder](https://gamebanana.com/mods/666256) - Map that looks super cool but didn't try yet.
 4. [The 2026 Secret Santa Collab](https://gamebanana.com/mods/695378) - New collab that I want to try in the future.
 5. [The Nightmare Map Pack](https://gamebanana.com/mods/701481) - 17 beautiful maps inspired with some pokemons that I want to try someday.
+6. [Field of Embers /|\ The Fire of Creativity](https://gamebanana.com/mods/571948) - Intermidiate beautiful map.
+7. [Reach For The Stars](https://gamebanana.com/mods/615835) - Some day I will try this...
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
