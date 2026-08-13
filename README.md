@@ -15,6 +15,8 @@
 5. [The Nightmare Map Pack](https://gamebanana.com/mods/701481) - 17 beautiful maps inspired with some pokemons that I want to try someday.
 6. [Field of Embers /|\ The Fire of Creativity](https://gamebanana.com/mods/571948) - Intermidiate beautiful map.
 7. [Reach For The Stars](https://gamebanana.com/mods/615835) - Some day I will try this...
+8. [Phob's P-Sides Pack](https://gamebanana.com/mods/377957) - Phob's map pack.
+9. [Sentient Forest](https://gamebanana.com/mods/437893) - Beautiful forest map with good design and pleasant gameplay.
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
