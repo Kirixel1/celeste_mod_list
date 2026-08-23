@@ -6,6 +6,8 @@
 5. [Boykisser](https://gamebanana.com/mods/570197) - Silly cat skin.
 6. [Skin Mod Helper (Plus)](https://gamebanana.com/mods/473796) - Allows me to change skin in the game.
 7. [CelesteNet](https://gamebanana.com/mods/53695) - Multiplayer mod for celeste.
+8. [Quick Jelly](https://gamebanana.com/mods/53684) - Lets you spawn jelly fish whenever you want.
+9. [Think Twice Before Retry (TTBR)](https://gamebanana.com/mods/521997) - Saves you from unexpected retry.
 ## Maps:
 1. [Strawberry Jam Collab](https://gamebanana.com/mods/424541) - Strawberry Jam is the largest Celeste mod to date, featuring: 111 maps spread across 5 difficulties, 1500+ playable rooms, 9 hours of original music, 250+ strawberries, Stickers!
 2. [Glyph](https://gamebanana.com/mods/150453) - Another very good mod for playing that I'm currently didn't complete yet.
@@ -16,6 +18,7 @@
 7. [Reach For The Stars](https://gamebanana.com/mods/615835) - Some day I will try this...
 8. [Phob's P-Sides Pack](https://gamebanana.com/mods/377957) - Phob's map pack - D-sides but kinder.
 9. [Sentient Forest](https://gamebanana.com/mods/437893) - Beautiful forest map with good design and pleasant gameplay.
+10. [Spark in the Machine](https://gamebanana.com/mods/704652) - Steampunk style map.
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
