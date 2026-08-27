@@ -19,6 +19,8 @@
 8. [Phob's P-Sides Pack](https://gamebanana.com/mods/377957) - Phob's map pack - D-sides but kinder.
 9. [Sentient Forest](https://gamebanana.com/mods/437893) - Beautiful forest map with good design and pleasant gameplay.
 10. [Spark in the Machine](https://gamebanana.com/mods/704652) - Steampunk style map.
+11. [Madeline in China (New)](https://gamebanana.com/mods/526396) - Mod made in China.
+12. [Forced Reality](https://gamebanana.com/mods/709500) - Second map from top celeste player and my viewer :)
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
