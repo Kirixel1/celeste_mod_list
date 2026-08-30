@@ -8,6 +8,7 @@
 7. [CelesteNet](https://gamebanana.com/mods/53695) - Multiplayer mod for celeste.
 8. [Quick Jelly](https://gamebanana.com/mods/53684) - Lets you spawn jelly fish whenever you want.
 9. [Think Twice Before Retry (TTBR)](https://gamebanana.com/mods/521997) - Saves you from unexpected retry.
+10. [Motion Smoothing](https://gamebanana.com/mods/514173) - Takes away framerate limit of 60 fps, very smooth gameplay.
 ## Maps:
 1. [Strawberry Jam Collab](https://gamebanana.com/mods/424541) - Strawberry Jam is the largest Celeste mod to date, featuring: 111 maps spread across 5 difficulties, 1500+ playable rooms, 9 hours of original music, 250+ strawberries, Stickers!
 2. [Glyph](https://gamebanana.com/mods/150453) - Another very good mod for playing that I'm currently didn't complete yet.
@@ -21,6 +22,8 @@
 10. [Spark in the Machine](https://gamebanana.com/mods/704652) - Steampunk style map.
 11. [Madeline in China (New)](https://gamebanana.com/mods/526396) - Mod made in China.
 12. [Forced Reality](https://gamebanana.com/mods/709500) - Second map from top celeste player and my viewer :)
+13. [Tracing Colors](https://gamebanana.com/mods/709520) - Expert/Gm 50 room mod. Beautiful graphics.
+14. [Delusional Canopy - B-Side Update!](https://gamebanana.com/mods/371770) - Space blocks, bubbles - all what I love.
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
