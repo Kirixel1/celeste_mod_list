@@ -23,7 +23,8 @@
 11. [Madeline in China (New)](https://gamebanana.com/mods/526396) - Mod made in China.
 12. [Forced Reality](https://gamebanana.com/mods/709500) - Second map from top celeste player and my viewer :)
 13. [Tracing Colors](https://gamebanana.com/mods/709520) - Expert/Gm 50 room mod. Beautiful graphics.
-14. [Delusional Canopy - B-Side Update!](https://gamebanana.com/mods/371770) - Space blocks, bubbles - all what I love.
+14. [Delusional Canopy - C-Side Update!](https://gamebanana.com/mods/371770) - Space blocks, bubbles - all what I love.
+15. [The Vanilla Secret Santa Collab](https://gamebanana.com/mods/711600) - Another collab that in my order of completing different mods in Celeste.
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
