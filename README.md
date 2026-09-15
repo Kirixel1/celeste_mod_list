@@ -3,12 +3,12 @@
 2. [Speedrun Tool](https://gamebanana.com/tools/6597) - Debug map, save states and other useful things for practicing difficult maps.
 3. [DeathTracker(Death Tracker/Counter)](https://gamebanana.com/mods/53681) - Death counter to track your deaths on the map.
 4. [Cateline](https://gamebanana.com/mods/251793) - Madeline is a cat!(skin).
-5. [Boykisser](https://gamebanana.com/mods/570197) - Silly cat skin.
 6. [Skin Mod Helper (Plus)](https://gamebanana.com/mods/473796) - Allows me to change skin in the game.
 7. [CelesteNet](https://gamebanana.com/mods/53695) - Multiplayer mod for celeste.
 8. [Quick Jelly](https://gamebanana.com/mods/53684) - Lets you spawn jelly fish whenever you want.
 9. [Think Twice Before Retry (TTBR)](https://gamebanana.com/mods/521997) - Saves you from unexpected retry.
 10. [Motion Smoothing](https://gamebanana.com/mods/514173) - Takes away framerate limit of 60 fps, very smooth gameplay.
+11. [Foxeline](https://gamebanana.com/mods/522004) - Madeline is fox, fox is Madeline.
 ## Maps:
 1. [Strawberry Jam Collab](https://gamebanana.com/mods/424541) - Strawberry Jam is the largest Celeste mod to date, featuring: 111 maps spread across 5 difficulties, 1500+ playable rooms, 9 hours of original music, 250+ strawberries, Stickers!
 2. [Glyph](https://gamebanana.com/mods/150453) - Another very good mod for playing that I'm currently didn't complete yet.
@@ -25,6 +25,8 @@
 13. [Tracing Colors](https://gamebanana.com/mods/709520) - Expert/Gm 50 room mod. Beautiful graphics.
 14. [Delusional Canopy - C-Side Update!](https://gamebanana.com/mods/371770) - Space blocks, bubbles - all what I love.
 15. [The Vanilla Secret Santa Collab](https://gamebanana.com/mods/711600) - Another collab that in my order of completing different mods in Celeste.
+16. [Darkmoon Ruins](https://gamebanana.com/mods/393245) - Darkmoon ruins - another mod map in my "to play later" list.
+17. [Madeline Dies and Goes to Heaven](https://gamebanana.com/mods/597749) - Name is funny haha.
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
