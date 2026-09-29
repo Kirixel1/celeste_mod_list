@@ -9,6 +9,8 @@
 9. [Think Twice Before Retry (TTBR)](https://gamebanana.com/mods/521997) - Saves you from unexpected retry.
 10. [Motion Smoothing](https://gamebanana.com/mods/514173) - Takes away framerate limit of 60 fps, very smooth gameplay.
 11. [Foxeline](https://gamebanana.com/mods/522004) - Madeline is fox, fox is Madeline.
+12. [Bonk](https://gamebanana.com/mods/373922) - Bonk.
+13. [viddie's Toolbox](https://gamebanana.com/tools/13384) - viddie's Toolbox(I use it to watch map time).
 ## Maps:
 1. [Strawberry Jam Collab](https://gamebanana.com/mods/424541) - Strawberry Jam is the largest Celeste mod to date, featuring: 111 maps spread across 5 difficulties, 1500+ playable rooms, 9 hours of original music, 250+ strawberries, Stickers!
 2. [Glyph](https://gamebanana.com/mods/150453) - Another very good mod for playing that I'm currently didn't complete yet.
@@ -27,6 +29,7 @@
 15. [The Vanilla Secret Santa Collab](https://gamebanana.com/mods/711600) - Another collab that in my order of completing different mods in Celeste.
 16. [Darkmoon Ruins](https://gamebanana.com/mods/393245) - Darkmoon ruins - another mod map in my "to play later" list.
 17. [Madeline Dies and Goes to Heaven](https://gamebanana.com/mods/597749) - Name is funny haha.
+18. [Conqueror's Peak](https://gamebanana.com/mods/348793) - Custom map with special boss fight.
 ### My socials:
 1. [youtube](https://youtube.com/@newgenics?si=CTjZjsGawupGLHPk)
 2. [twitch](https://www.twitch.tv/newgenics)
